@@ -1,0 +1,72 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.top{
+    position: relative;
+    text-align: right;
+    background-color: black;
+    padding: 40px;
+    margin: 0;
+}
+.contents{
+    color: #bbe1fa;
+    font-size: 2rem;
+    padding: 10px;
+}
+.Ai{
+    margin: 0px;
+}
+.middle{
+    margin: 0;
+    padding: 20px;
+    color: #bbe1fa;
+    font-size: 3rem;
+    background-color: black;
+}
+p{
+    font-size: 1.5rem;
+    color: #66BFBF;
+}
+.button {
+    border-top: 1px solid #f2f5f7;
+    background: #2e3133;
+    background: -webkit-gradient(linear, left top, left bottom, from(#080808), to(#2e3133));
+    background: -webkit-linear-gradient(top, #080808, #2e3133);
+    background: -moz-linear-gradient(top, #080808, #2e3133);
+    background: -ms-linear-gradient(top, #080808, #2e3133);
+    background: -o-linear-gradient(top, #080808, #2e3133);
+    padding: 17.5px 35px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    box-shadow: rgba(0,0,0,1) 0 1px 0;
+    text-shadow: rgba(0,0,0,.4) 0 1px 0;
+    color: white;
+    font-size: 18px;
+    font-family: Georgia, serif;
+    text-decoration: none;
+    vertical-align: middle;
+    }
+ .button:hover {
+    border-top-color: #ffffff;
+    background: #ffffff;
+    color: #0a080a;
+    }
+ .button:active {
+    border-top-color: #1b435e;
+    background: #1b435e;
+    }
+
+
+.bottom{
+    padding: 20px;
+    margin: 0;
+    background-color: black;;
+}
+.footer-link{
+    color: #11999E;
+}
